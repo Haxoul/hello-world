@@ -25,12 +25,12 @@ Blaablaa...
 ## Coloration
 
 ```python
-def hellow(userName):
+def hellow(user_name):
     """Totally useless code to test coloration with Github Markdown"""
         x = False
-        if len(userName) >= 1:
+        if len(user_name) >= 1:
             x = True
-            print("Hellow " + userName)
+            print("Hellow " + user_name)
 
 ```
 
